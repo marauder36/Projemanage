@@ -1,7 +1,11 @@
 # Projemanage
- An app to help you manage your team better. You can see all the members of your team, as well as removing or adding new ones as needed.
-
+ An app to help you manage your team better. 
+ 
 ![Home](https://github.com/marauder36/PetSitter/assets/158584558/0741bcb9-bb8a-4189-8e03-ebccda069b93)
+
+You can see all the members of your team, as well as adding or removing new boards that contain tasks or objectives as needed.
+
+![CreateBoard](https://github.com/marauder36/PetSitter/assets/158584558/03b5af78-4d7f-446f-a2f1-d7688d79d90d)
 
 Each task list is highly customizable via drag and drop, and the app supports multiple boards at the same time !
 
